@@ -1,1 +1,1 @@
-# TournamentOrganization
+# TOURNAMENT ORGANIZATION
